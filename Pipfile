@@ -12,3 +12,4 @@ requests = {editable = true,git = "https://github.com/requests/requests.git"}
 
 [requires]
 python_version = "3.8"
+#
